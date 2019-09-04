@@ -1,10 +1,10 @@
 {
   "name": "RaptorSA",
   "version": "1.0.0",
-  "description": "RaptorSA is a multi function bot, you can listen music, manage roles, get various informations and many other things :)",
+  "description": "Manager is a multi function bot, you can listen music, manage roles, get various informations and many other things :)",
   "main": "index.js",
-  "token": "You wanted",
-  "author": "Cramenorn",
+  "token": "NjE4ODQzMjY0NjI3NTA3MjEy.XW_kzA.z5Lafc_bl6d8mkVScyOgd1u2plA",
+  "author": "MR.ARMAN",
   "prefix": "$",
   "dependencies": {
     "discord.js": "^11.3.2",
